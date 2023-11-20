@@ -6,6 +6,7 @@
 .dashboard{
    display: flex;
   flex-direction: row;
+  background-color: bisque;
 }
 
 .divs{
